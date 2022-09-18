@@ -2,5 +2,8 @@
 welcome to telusko kitchen
 kheer
 pasta
+beans
+pizza
+
 thank you
 final copy
