@@ -4,6 +4,8 @@ kheer
 pasta
 beans
 pizza
+chicken
+mutton
 
 thank you
 final copy
